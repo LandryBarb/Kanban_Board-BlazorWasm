@@ -1,0 +1,25 @@
+.draggable[b-szd5rcxf4c] {
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    border: 1px solid #424d5c;
+    cursor: grab;
+    background: #ff6a00;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 16rem;
+}
+
+    .draggable:active[b-szd5rcxf4c] {
+        cursor: grabbing;
+    }
+
+.dropzone[b-szd5rcxf4c] {
+    padding: .75rem;
+    border: 2px solid black;
+    min-height: 20rem;
+}
+
+.priority[b-szd5rcxf4c]{
+    min-width:20rem;
+    padding-right:2rem;
+}

@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = KanbanBoard
+build_property.RootNamespace = KanbanBoard
+build_property.ProjectDir = C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FrontEnd\KanbanBoard\KanbanBoard\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FrontEnd\KanbanBoard\KanbanBoard
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/KanbanBoard/KanbanBoard/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/KanbanBoard/KanbanBoard/Features/Components/NewTask.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcQ29tcG9uZW50c1xOZXdUYXNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/KanbanBoard/KanbanBoard/Features/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/KanbanBoard/KanbanBoard/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/KanbanBoard/KanbanBoard/Features/Components/Dropzone.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcQ29tcG9uZW50c1xEcm9wem9uZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-szd5rcxf4c
+
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/KanbanBoard/KanbanBoard/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-otvqspji0f
+
+[C:/Users/Landry Barb II/Documents/WebDevelopment/Blazor/PortfolioProjects/FrontEnd/KanbanBoard/KanbanBoard/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-i5mi07b3q6
